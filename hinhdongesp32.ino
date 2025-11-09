@@ -44,7 +44,7 @@ String condition = "";
 unsigned long lastWeatherUpdate = 0;
 
 // 🌍 OpenWeather API Key
-const String apiKey = "d2e332e058269a79e668fedf95358077";  // Replace with your real key
+const String apiKey = "YOUR_OPENWEATHER_API";  // Replace with your real key
 
 // ------------------- HELPER FUNCTIONS -------------------
 void showWelcomeMessage() {
